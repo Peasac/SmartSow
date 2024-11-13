@@ -58,7 +58,7 @@ li a {
 .head1 {
     font-size: 3.5em;
     font-weight: bold;
-    text-shadow: 4px 15px rgba(0, 0, 0, 0.8);
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.8);
     text-align: center;
 }
 .container1 {
